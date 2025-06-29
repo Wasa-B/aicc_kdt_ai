@@ -1,0 +1,156 @@
+{
+    "title": "2025년 2월 콘텐츠 업로드 플랜",
+    "thema": "신년축제 후 이벤트 기간",
+    "plans": [
+        {
+            "day": 1,
+            "contents_type": "instagram",
+            "plan": "신년축제 후 첫 이벤트 소식 공유"
+        },
+        {
+            "day": 2,
+            "contents_type": "streaming",
+            "plan": "이벤트 현장 스트리밍"
+        },
+        {
+            "day": 3,
+            "contents_type": "twit",
+            "plan": "이벤트 참여자 인터뷰 트윗"
+        },
+        {
+            "day": 4,
+            "contents_type": "youtube",
+            "plan": "이벤트 하이라이트 영상 업로드"
+        },
+        {
+            "day": 5,
+            "contents_type": "blog",
+            "plan": "이벤트 후기 및 사진 블로그 포스팅"
+        },
+        {
+            "day": 6,
+            "contents_type": "facebook",
+            "plan": "이벤트 현장 스냅 공유"
+        },
+        {
+            "day": 7,
+            "contents_type": "tiktok",
+            "plan": "이벤트 다이내믹한 영상 제작"
+        },
+        {
+            "day": 8,
+            "contents_type": "news_letter",
+            "plan": "이벤트 할인 혜택 안내 뉴스레터 발송"
+        },
+        {
+            "day": 9,
+            "contents_type": "web_event",
+            "plan": "이벤트 관련 웹 이벤트 오픈"
+        },
+        {
+            "day": 10,
+            "contents_type": "instagram",
+            "plan": "이벤트 참여자 인증샷 공유"
+        },
+        {
+            "day": 11,
+            "contents_type": "streaming",
+            "plan": "이벤트 현장 라이브 방송"
+        },
+        {
+            "day": 12,
+            "contents_type": "twit",
+            "plan": "이벤트 이모티콘 투표 트윗"
+        },
+        {
+            "day": 13,
+            "contents_type": "youtube",
+            "plan": "이벤트 참여자 인터뷰 영상 업로드"
+        },
+        {
+            "day": 14,
+            "contents_type": "blog",
+            "plan": "이벤트 현장 스토리 블로그 포스팅"
+        },
+        {
+            "day": 15,
+            "contents_type": "facebook",
+            "plan": "이벤트 참여자 이야기 공유"
+        },
+        {
+            "day": 16,
+            "contents_type": "tiktok",
+            "plan": "이벤트 댄스 챌린지 영상 제작"
+        },
+        {
+            "day": 17,
+            "contents_type": "news_letter",
+            "plan": "이벤트 후기 및 소감 뉴스레터 발송"
+        },
+        {
+            "day": 18,
+            "contents_type": "web_event",
+            "plan": "이벤트 경품 이벤트 오픈"
+        },
+        {
+            "day": 19,
+            "contents_type": "instagram",
+            "plan": "이벤트 경품 추첨 공지"
+        },
+        {
+            "day": 20,
+            "contents_type": "streaming",
+            "plan": "이벤트 경품 추첨 라이브 방송"
+        },
+        {
+            "day": 21,
+            "contents_type": "twit",
+            "plan": "이벤트 경품 당첨자 발표 트윗"
+        },
+        {
+            "day": 22,
+            "contents_type": "youtube",
+            "plan": "이벤트 경품 당첨자 인터뷰 영상 업로드"
+        },
+        {
+            "day": 23,
+            "contents_type": "blog",
+            "plan": "이벤트 경품 당첨자 이야기 블로그 포스팅"
+        },
+        {
+            "day": 24,
+            "contents_type": "facebook",
+            "plan": "이벤트 경품 당첨자 축하 메시지 공유"
+        },
+        {
+            "day": 25,
+            "contents_type": "tiktok",
+            "plan": "이벤트 경품 언박싱 영상 제작"
+        },
+        {
+            "day": 26,
+            "contents_type": "news_letter",
+            "plan": "이벤트 경품 수령 안내 뉴스레터 발송"
+        },
+        {
+            "day": 27,
+            "contents_type": "web_event",
+            "plan": "다음 이벤트 예고 및 참여 안내"
+        },
+        {
+            "day": 28,
+            "contents_type": "instagram",
+            "plan": "다음 이벤트 힌트 공유"
+        },
+        {
+            "day": 29,
+            "contents_type": "streaming",
+            "plan": "다음 이벤트 티저 라이브 방송"
+        },
+        {
+            "day": 30,
+            "contents_type": "twit",
+            "plan": "다음 이벤트 테마 트윗"
+        }
+    ]
+}

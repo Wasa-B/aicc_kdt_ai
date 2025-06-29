@@ -1,0 +1,161 @@
+{
+    "title": "2025년 10월 콘텐츠 업로드 플랜",
+    "thema": "가을 풍경과 문화 축제",
+    "plans": [
+        {
+            "day": 1,
+            "contents_type": "instagram",
+            "plan": "가을 단풍 촬영 지역 안내"
+        },
+        {
+            "day": 2,
+            "contents_type": "streaming",
+            "plan": "가을 축제 현장 중계"
+        },
+        {
+            "day": 3,
+            "contents_type": "twit",
+            "plan": "가을 맛집 소개"
+        },
+        {
+            "day": 4,
+            "contents_type": "youtube",
+            "plan": "가을 문화 행사 하이라이트 영상"
+        },
+        {
+            "day": 5,
+            "contents_type": "blog",
+            "plan": "가을 풍경 사진과 함께하는 여행 에세이"
+        },
+        {
+            "day": 6,
+            "contents_type": "facebook",
+            "plan": "가을 이벤트 참여 안내"
+        },
+        {
+            "day": 7,
+            "contents_type": "tiktok",
+            "plan": "가을 댄스 챌린지 영상"
+        },
+        {
+            "day": 8,
+            "contents_type": "news_letter",
+            "plan": "가을 이벤트 할인 쿠폰 발송"
+        },
+        {
+            "day": 9,
+            "contents_type": "web_event",
+            "plan": "가을 페스티벌 온라인 참가 안내"
+        },
+        {
+            "day": 10,
+            "contents_type": "instagram",
+            "plan": "가을 풍경 사진 공유"
+        },
+        {
+            "day": 11,
+            "contents_type": "streaming",
+            "plan": "가을 문화 행사 생중계"
+        },
+        {
+            "day": 12,
+            "contents_type": "twit",
+            "plan": "가을 산책로 안내"
+        },
+        {
+            "day": 13,
+            "contents_type": "youtube",
+            "plan": "가을 풍경 영상 공유"
+        },
+        {
+            "day": 14,
+            "contents_type": "blog",
+            "plan": "가을 축제 후기 포스팅"
+        },
+        {
+            "day": 15,
+            "contents_type": "facebook",
+            "plan": "가을 이벤트 참여 안내"
+        },
+        {
+            "day": 16,
+            "contents_type": "tiktok",
+            "plan": "가을 먹방 챌린지 영상"
+        },
+        {
+            "day": 17,
+            "contents_type": "news_letter",
+            "plan": "가을 이벤트 혜택 안내"
+        },
+        {
+            "day": 18,
+            "contents_type": "web_event",
+            "plan": "가을 페스티벌 온라인 참가 안내"
+        },
+        {
+            "day": 19,
+            "contents_type": "instagram",
+            "plan": "가을 풍경 사진 업로드"
+        },
+        {
+            "day": 20,
+            "contents_type": "streaming",
+            "plan": "가을 문화 행사 현장 중계"
+        },
+        {
+            "day": 21,
+            "contents_type": "twit",
+            "plan": "가을 음식 추천 트윗"
+        },
+        {
+            "day": 22,
+            "contents_type": "youtube",
+            "plan": "가을 문화 행사 다이어리 영상"
+        },
+        {
+            "day": 23,
+            "contents_type": "blog",
+            "plan": "가을 여행 팁 포스팅"
+        },
+        {
+            "day": 24,
+            "contents_type": "facebook",
+            "plan": "가을 이벤트 참여 안내"
+        },
+        {
+            "day": 25,
+            "contents_type": "tiktok",
+            "plan": "가을 패션 스타일링 영상"
+        },
+        {
+            "day": 26,
+            "contents_type": "news_letter",
+            "plan": "가을 이벤트 혜택 안내"
+        },
+        {
+            "day": 27,
+            "contents_type": "web_event",
+            "plan": "가을 페스티벌 온라인 참가 안내"
+        },
+        {
+            "day": 28,
+            "contents_type": "instagram",
+            "plan": "가을 풍경 사진 공유"
+        },
+        {
+            "day": 29,
+            "contents_type": "streaming",
+            "plan": "가을 문화 행사 생중계"
+        },
+        {
+            "day": 30,
+            "contents_type": "twit",
+            "plan": "가을 관광지 안내 트윗"
+        },
+        {
+            "day": 31,
+            "contents_type": "youtube",
+            "plan": "가을 풍경 영상 업로드"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "title": "2025년 6월 콘텐츠 업로드 플랜",
+    "thema": "여름 휴가, 해변 행사",
+    "plans": [
+        {
+            "day": 1,
+            "contents_type": "instagram",
+            "plan": "해변에서의 여름 휴가 사진 업로드"
+        },
+        {
+            "day": 2,
+            "contents_type": "streaming",
+            "plan": "해변 행사 실시간 스트리밍"
+        },
+        {
+            "day": 3,
+            "contents_type": "twit",
+            "plan": "해변에서의 트위터 미니 블로그 업로드"
+        },
+        {
+            "day": 4,
+            "contents_type": "youtube",
+            "plan": "해변 행사 후기 영상 업로드"
+        },
+        {
+            "day": 5,
+            "contents_type": "blog",
+            "plan": "해변 행사 리뷰 및 팁 블로그 포스팅"
+        },
+        {
+            "day": 6,
+            "contents_type": "facebook",
+            "plan": "해변 행사 이벤트 소식 공유"
+        },
+        {
+            "day": 7,
+            "contents_type": "tiktok",
+            "plan": "해변에서의 댄스 챌린지 영상 업로드"
+        },
+        {
+            "day": 8,
+            "contents_type": "news_letter",
+            "plan": "해변 행사 할인 쿠폰 뉴스레터 발송"
+        },
+        {
+            "day": 9,
+            "contents_type": "web_event",
+            "plan": "해변 행사 관련 웹 이벤트 진행 안내"
+        },
+        {
+            "day": 10,
+            "contents_type": "instagram",
+            "plan": "해변에서의 해수욕 사진 업로드"
+        },
+        {
+            "day": 11,
+            "contents_type": "streaming",
+            "plan": "해변에서의 해수욕 라이브 방송"
+        },
+        {
+            "day": 12,
+            "contents_type": "twit",
+            "plan": "해변에서의 해수욕 트위터 미니 블로그 업로드"
+        },
+        {
+            "day": 13,
+            "contents_type": "youtube",
+            "plan": "해변에서의 해수욕 영상 업로드"
+        },
+        {
+            "day": 14,
+            "contents_type": "blog",
+            "plan": "해변에서의 해수욕 팁 블로그 포스팅"
+        },
+        {
+            "day": 15,
+            "contents_type": "facebook",
+            "plan": "해변에서의 해수욕 이벤트 소식 공유"
+        },
+        {
+            "day": 16,
+            "contents_type": "tiktok",
+            "plan": "해변에서의 해수욕 댄스 챌린지 영상 업로드"
+        },
+        {
+            "day": 17,
+            "contents_type": "news_letter",
+            "plan": "해변에서의 해수욕 할인 쿠폰 뉴스레터 발송"
+        },
+        {
+            "day": 18,
+            "contents_type": "web_event",
+            "plan": "해변에서의 해수욕 관련 웹 이벤트 진행 안내"
+        },
+        {
+            "day": 19,
+            "contents_type": "instagram",
+            "plan": "해변에서의 해돋이 사진 업로드"
+        },
+        {
+            "day": 20,
+            "contents_type": "streaming",
+            "plan": "해변에서의 해돋이 라이브 방송"
+        },
+        {
+            "day": 21,
+            "contents_type": "twit",
+            "plan": "해변에서의 해돋이 트위터 미니 블로그 업로드"
+        },
+        {
+            "day": 22,
+            "contents_type": "youtube",
+            "plan": "해변에서의 해돋이 영상 업로드"
+        },
+        {
+            "day": 23,
+            "contents_type": "blog",
+            "plan": "해변에서의 해돋이 리뷰 및 팁 블로그 포스팅"
+        },
+        {
+            "day": 24,
+            "contents_type": "facebook",
+            "plan": "해변에서의 해돋이 이벤트 소식 공유"
+        },
+        {
+            "day": 25,
+            "contents_type": "tiktok",
+            "plan": "해변에서의 해돋이 댄스 챌린지 영상 업로드"
+        },
+        {
+            "day": 26,
+            "contents_type": "news_letter",
+            "plan": "해변에서의 해돋이 할인 쿠폰 뉴스레터 발송"
+        },
+        {
+            "day": 27,
+            "contents_type": "web_event",
+            "plan": "해변에서의 해돋이 관련 웹 이벤트 진행 안내"
+        },
+        {
+            "day": 28,
+            "contents_type": "instagram",
+            "plan": "해변에서의 바다 낚시 사진 업로드"
+        },
+        {
+            "day": 29,
+            "contents_type": "streaming",
+            "plan": "해변에서의 바다 낚시 라이브 방송"
+        },
+        {
+            "day": 30,
+            "contents_type": "twit",
+            "plan": "해변에서의 바다 낚시 트위터 미니 블로그 업로드"
+        }
+    ]
+}

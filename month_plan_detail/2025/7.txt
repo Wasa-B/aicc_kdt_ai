@@ -1,0 +1,161 @@
+{
+    "title": "2025년 7월 콘텐츠 업로드 플랜",
+    "thema": "여름 휴가 및 경주 관련 이벤트 소식",
+    "plans": [
+        {
+            "day": 1,
+            "contents_type": "blog",
+            "plan": "경주 여름 축제 소개 및 이벤트 참여 안내"
+        },
+        {
+            "day": 2,
+            "contents_type": "instagram",
+            "plan": "경주 여름 풍경 사진 및 해변 관련 포스팅"
+        },
+        {
+            "day": 3,
+            "contents_type": "tiktok",
+            "plan": "경주 여름 축제 다이내믹 영상 공유"
+        },
+        {
+            "day": 4,
+            "contents_type": "youtube",
+            "plan": "경주 여름 이벤트 라이브 스트리밍"
+        },
+        {
+            "day": 5,
+            "contents_type": "facebook",
+            "plan": "경주 여름 축제 할인 혜택 및 이벤트 소식 공유"
+        },
+        {
+            "day": 6,
+            "contents_type": "news_letter",
+            "plan": "이번 주 경주 여름 이벤트 소식 뉴스레터 발송"
+        },
+        {
+            "day": 7,
+            "contents_type": "web_event",
+            "plan": "경주 여름 특별 웹 이벤트 안내 및 참여 방법 안내"
+        },
+        {
+            "day": 8,
+            "contents_type": "blog",
+            "plan": "경주 여름 휴가 코스 및 숨은 관광명소 소개"
+        },
+        {
+            "day": 9,
+            "contents_type": "instagram",
+            "plan": "경주 여름 휴가 스타일링 및 패션 포스팅"
+        },
+        {
+            "day": 10,
+            "contents_type": "tiktok",
+            "plan": "경주 여름 맛집 투어 영상 공유"
+        },
+        {
+            "day": 11,
+            "contents_type": "youtube",
+            "plan": "경주 여름 휴가 팁 라이브 방송"
+        },
+        {
+            "day": 12,
+            "contents_type": "facebook",
+            "plan": "경주 여름 휴가 관련 이벤트 혜택 소개"
+        },
+        {
+            "day": 13,
+            "contents_type": "news_letter",
+            "plan": "경주 여름 휴가 관련 유용한 정보 뉴스레터 발송"
+        },
+        {
+            "day": 14,
+            "contents_type": "web_event",
+            "plan": "경주 여름 특별 웹 이벤트 참여 안내"
+        },
+        {
+            "day": 15,
+            "contents_type": "blog",
+            "plan": "경주 여름 휴가 후기 및 추억 공유"
+        },
+        {
+            "day": 16,
+            "contents_type": "instagram",
+            "plan": "경주 여름 휴가 사진 공유 및 해시태그 이벤트 진행"
+        },
+        {
+            "day": 17,
+            "contents_type": "tiktok",
+            "plan": "경주 여름 휴가 다이내믹 영상 제작 및 공유"
+        },
+        {
+            "day": 18,
+            "contents_type": "youtube",
+            "plan": "경주 여름 휴가 팁 영상 라이브 스트리밍"
+        },
+        {
+            "day": 19,
+            "contents_type": "facebook",
+            "plan": "경주 여름 휴가 할인 혜택 및 이벤트 소식 안내"
+        },
+        {
+            "day": 20,
+            "contents_type": "news_letter",
+            "plan": "경주 여름 휴가 관련 유용한 정보 뉴스레터 발송"
+        },
+        {
+            "day": 21,
+            "contents_type": "web_event",
+            "plan": "경주 여름 특별 웹 이벤트 참여 안내"
+        },
+        {
+            "day": 22,
+            "contents_type": "blog",
+            "plan": "경주 여름 휴가 추천 숙소 및 숙박 패키지 소개"
+        },
+        {
+            "day": 23,
+            "contents_type": "instagram",
+            "plan": "경주 여름 휴가 뷰티 및 미용 포스팅"
+        },
+        {
+            "day": 24,
+            "contents_type": "tiktok",
+            "plan": "경주 여름 휴가 댄스 챌린지 영상 공유"
+        },
+        {
+            "day": 25,
+            "contents_type": "youtube",
+            "plan": "경주 여름 휴가 팁 라이브 방송"
+        },
+        {
+            "day": 26,
+            "contents_type": "facebook",
+            "plan": "경주 여름 휴가 이벤트 혜택 및 소식 공유"
+        },
+        {
+            "day": 27,
+            "contents_type": "news_letter",
+            "plan": "경주 여름 휴가 관련 유용한 정보 뉴스레터 발송"
+        },
+        {
+            "day": 28,
+            "contents_type": "web_event",
+            "plan": "경주 여름 특별 웹 이벤트 참여 안내"
+        },
+        {
+            "day": 29,
+            "contents_type": "blog",
+            "plan": "경주 여름 휴가 후기 및 추억 공유"
+        },
+        {
+            "day": 30,
+            "contents_type": "instagram",
+            "plan": "경주 여름 휴가 사진 공유 및 해시태그 이벤트 진행"
+        },
+        {
+            "day": 31,
+            "contents_type": "tiktok",
+            "plan": "경주 여름 휴가 다이내믹 영상 제작 및 공유"
+        }
+    ]
+}

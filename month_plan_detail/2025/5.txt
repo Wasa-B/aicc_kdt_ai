@@ -1,0 +1,161 @@
+{
+    "title": "2025년 5월 콘텐츠 업로드 플랜",
+    "thema": "봄 여행, 자연 속 힐링",
+    "plans": [
+        {
+            "day": 1,
+            "contents_type": "instagram",
+            "plan": "자연 속 힐링을 주제로 한 사진 및 감성글 업로드"
+        },
+        {
+            "day": 2,
+            "contents_type": "streaming",
+            "plan": "봄 여행지 추천 및 실시간 Q&A 세션 진행"
+        },
+        {
+            "day": 3,
+            "contents_type": "twit",
+            "plan": "봄의 아름다움을 담은 짧은 트윗 공유"
+        },
+        {
+            "day": 4,
+            "contents_type": "youtube",
+            "plan": "봄 테마의 여행 Vlog 업로드"
+        },
+        {
+            "day": 5,
+            "contents_type": "blog",
+            "plan": "봄의 푸른 자연을 소개하는 글 게시"
+        },
+        {
+            "day": 6,
+            "contents_type": "facebook",
+            "plan": "봄 휴가 추천 여행지 소개 및 이벤트 안내"
+        },
+        {
+            "day": 7,
+            "contents_type": "tiktok",
+            "plan": "봄의 신선함을 담은 짧은 댄스 영상 업로드"
+        },
+        {
+            "day": 8,
+            "contents_type": "news_letter",
+            "plan": "이번 주의 봄 여행 특가 및 이벤트 소식 발송"
+        },
+        {
+            "day": 9,
+            "contents_type": "web_event",
+            "plan": "봄맞이 이벤트 웹페이지 오픈 및 참여 안내"
+        },
+        {
+            "day": 10,
+            "contents_type": "instagram",
+            "plan": "봄 꽃 향기를 담은 사진 및 감성글 업로드"
+        },
+        {
+            "day": 11,
+            "contents_type": "streaming",
+            "plan": "봄 나들이 코스 소개 및 실시간 채팅 이벤트"
+        },
+        {
+            "day": 12,
+            "contents_type": "twit",
+            "plan": "봄의 따뜻한 햇살을 담은 트윗 공유"
+        },
+        {
+            "day": 13,
+            "contents_type": "youtube",
+            "plan": "봄 날씨와 어울리는 노래 커버 영상 업로드"
+        },
+        {
+            "day": 14,
+            "contents_type": "blog",
+            "plan": "봄의 자연 속 소소한 행복을 담은 글 게시"
+        },
+        {
+            "day": 15,
+            "contents_type": "facebook",
+            "plan": "봄 나들이 패키지 할인 이벤트 소식 공유"
+        },
+        {
+            "day": 16,
+            "contents_type": "tiktok",
+            "plan": "봄 바람을 느낄 수 있는 짧은 댄스 영상 업로드"
+        },
+        {
+            "day": 17,
+            "contents_type": "news_letter",
+            "plan": "봄 특별 이벤트 혜택 및 쿠폰 안내 이메일 발송"
+        },
+        {
+            "day": 18,
+            "contents_type": "web_event",
+            "plan": "봄 여행 이벤트 참여자 추첨 및 경품 발표"
+        },
+        {
+            "day": 19,
+            "contents_type": "instagram",
+            "plan": "봄 날씨와 어울리는 사진과 함께 감성글 업로드"
+        },
+        {
+            "day": 20,
+            "contents_type": "streaming",
+            "plan": "봄 휴가지 추천 및 실시간 질의응답 세션 진행"
+        },
+        {
+            "day": 21,
+            "contents_type": "twit",
+            "plan": "봄의 신선함을 전하는 짧은 트윗 공유"
+        },
+        {
+            "day": 22,
+            "contents_type": "youtube",
+            "plan": "봄의 아름다움을 담은 여행 Vlog 업로드"
+        },
+        {
+            "day": 23,
+            "contents_type": "blog",
+            "plan": "봄의 자연 속 소소한 행복을 담은 글 게시"
+        },
+        {
+            "day": 24,
+            "contents_type": "facebook",
+            "plan": "봄 휴가 추천 여행지 소개 및 이벤트 안내"
+        },
+        {
+            "day": 25,
+            "contents_type": "tiktok",
+            "plan": "봄의 신선함을 담은 짧은 댄스 영상 업로드"
+        },
+        {
+            "day": 26,
+            "contents_type": "news_letter",
+            "plan": "이번 주의 봄 여행 특가 및 이벤트 소식 발송"
+        },
+        {
+            "day": 27,
+            "contents_type": "web_event",
+            "plan": "봄맞이 이벤트 웹페이지 오픈 및 참여 안내"
+        },
+        {
+            "day": 28,
+            "contents_type": "instagram",
+            "plan": "봄 꽃 향기를 담은 사진 및 감성글 업로드"
+        },
+        {
+            "day": 29,
+            "contents_type": "streaming",
+            "plan": "봄 나들이 코스 소개 및 실시간 채팅 이벤트"
+        },
+        {
+            "day": 30,
+            "contents_type": "twit",
+            "plan": "봄의 따뜻한 햇살을 담은 트윗 공유"
+        },
+        {
+            "day": 31,
+            "contents_type": "youtube",
+            "plan": "봄 날씨와 어울리는 노래 커버 영상 업로드"
+        }
+    ]
+}

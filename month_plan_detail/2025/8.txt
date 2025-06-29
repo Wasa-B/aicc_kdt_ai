@@ -1,0 +1,161 @@
+{
+    "title": "2025년 8월 콘텐츠 업로드 플랜",
+    "thema": "여름 휴가 및 해변 행사",
+    "plans": [
+        {
+            "day": "1일",
+            "contents_type": "instagram",
+            "plan": "해변에서의 해수욕 사진 및 해변 행사 소식 업로드"
+        },
+        {
+            "day": "2일",
+            "contents_type": "streaming",
+            "plan": "해변 산책 라이브 방송"
+        },
+        {
+            "day": "3일",
+            "contents_type": "twit",
+            "plan": "해변 행사 참여 후기 공유"
+        },
+        {
+            "day": "4일",
+            "contents_type": "youtube",
+            "plan": "해변에서의 먹방 영상 업로드"
+        },
+        {
+            "day": "5일",
+            "contents_type": "blog",
+            "plan": "해변 행사 후기 및 추천 장소 소개 글"
+        },
+        {
+            "day": "6일",
+            "contents_type": "facebook",
+            "plan": "해변에서의 행사 현황 및 이벤트 소식 공유"
+        },
+        {
+            "day": "7일",
+            "contents_type": "tiktok",
+            "plan": "해변에서의 다양한 댄스 챌린지 영상 업로드"
+        },
+        {
+            "day": "8일",
+            "contents_type": "news_letter",
+            "plan": "해변 행사 할인 쿠폰 및 이벤트 안내 이메일 발송"
+        },
+        {
+            "day": "9일",
+            "contents_type": "web_event",
+            "plan": "해변 행사 관련 웹 이벤트 참여 안내"
+        },
+        {
+            "day": "10일",
+            "contents_type": "instagram",
+            "plan": "해변 행사에서의 일몰 사진 업로드"
+        },
+        {
+            "day": "11일",
+            "contents_type": "streaming",
+            "plan": "해변에서의 해돋이 라이브 방송"
+        },
+        {
+            "day": "12일",
+            "contents_type": "twit",
+            "plan": "해변 행사 다양한 이야기 공유"
+        },
+        {
+            "day": "13일",
+            "contents_type": "youtube",
+            "plan": "해변에서의 수영 대회 영상 업로드"
+        },
+        {
+            "day": "14일",
+            "contents_type": "blog",
+            "plan": "해변 행사 참여 후기 및 팁 공유 글"
+        },
+        {
+            "day": "15일",
+            "contents_type": "facebook",
+            "plan": "해변 행사 다양한 이벤트 소식 공유"
+        },
+        {
+            "day": "16일",
+            "contents_type": "tiktok",
+            "plan": "해변에서의 해수욕 다이어트 챌린지 영상 업로드"
+        },
+        {
+            "day": "17일",
+            "contents_type": "news_letter",
+            "plan": "해변 행사 할인 쿠폰 및 이벤트 안내 이메일 발송"
+        },
+        {
+            "day": "18일",
+            "contents_type": "web_event",
+            "plan": "해변 행사 관련 웹 이벤트 참여 안내"
+        },
+        {
+            "day": "19일",
+            "contents_type": "instagram",
+            "plan": "해변에서의 해돋이 사진 업로드"
+        },
+        {
+            "day": "20일",
+            "contents_type": "streaming",
+            "plan": "해변에서의 해야 라이브 방송"
+        },
+        {
+            "day": "21일",
+            "contents_type": "twit",
+            "plan": "해변 행사 다양한 이야기 공유"
+        },
+        {
+            "day": "22일",
+            "contents_type": "youtube",
+            "plan": "해변에서의 서핑 대회 영상 업로드"
+        },
+        {
+            "day": "23일",
+            "contents_type": "blog",
+            "plan": "해변 행사 참여 후기 및 추천 장소 소개 글"
+        },
+        {
+            "day": "24일",
+            "contents_type": "facebook",
+            "plan": "해변 행사 다양한 이벤트 소식 공유"
+        },
+        {
+            "day": "25일",
+            "contents_type": "tiktok",
+            "plan": "해변에서의 해수욕 다이어트 챌린지 영상 업로드"
+        },
+        {
+            "day": "26일",
+            "contents_type": "news_letter",
+            "plan": "해변 행사 할인 쿠폰 및 이벤트 안내 이메일 발송"
+        },
+        {
+            "day": "27일",
+            "contents_type": "web_event",
+            "plan": "해변 행사 관련 웹 이벤트 참여 안내"
+        },
+        {
+            "day": "28일",
+            "contents_type": "instagram",
+            "plan": "해변에서의 일몰 사진 업로드"
+        },
+        {
+            "day": "29일",
+            "contents_type": "streaming",
+            "plan": "해변에서의 해돋이 라이브 방송"
+        },
+        {
+            "day": "30일",
+            "contents_type": "twit",
+            "plan": "해변 행사 다양한 이야기 공유"
+        },
+        {
+            "day": "31일",
+            "contents_type": "facebook",
+            "plan": "해변 행사 마무리 소식 및 이벤트 후기 공유"
+        }
+    ]
+}

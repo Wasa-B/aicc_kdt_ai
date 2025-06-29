@@ -1,0 +1,161 @@
+{
+  "title": "2025년 12월 콘텐츠 업로드 플랜",
+  "thema": "겨울여행 마케팅",
+  "plans": [
+    {
+      "day": 1,
+      "contents_type": "instagram",
+      "plan": "겨울 여행지 추천 포스팅"
+    },
+    {
+      "day": 2,
+      "contents_type": "streaming",
+      "plan": "라이브 방송으로 겨울 여행 팁 소개"
+    },
+    {
+      "day": 3,
+      "contents_type": "twit",
+      "plan": "겨울 여행 관련 해시태그 트윗"
+    },
+    {
+      "day": 4,
+      "contents_type": "youtube",
+      "plan": "겨울 여행 VLOG 업로드"
+    },
+    {
+      "day": 5,
+      "contents_type": "blog",
+      "plan": "겨울 여행 패키지 상세 소개 글"
+    },
+    {
+      "day": 6,
+      "contents_type": "facebook",
+      "plan": "겨울 여행 이벤트 안내"
+    },
+    {
+      "day": 7,
+      "contents_type": "tiktok",
+      "plan": "겨울 여행 다이내믹 영상 업로드"
+    },
+    {
+      "day": 8,
+      "contents_type": "news_letter",
+      "plan": "이번 주의 할인 혜택 및 이벤트 안내"
+    },
+    {
+      "day": 9,
+      "contents_type": "web_event",
+      "plan": "겨울 여행 웹 이벤트 오픈"
+    },
+    {
+      "day": 10,
+      "contents_type": "instagram",
+      "plan": "겨울 여행 패키지 할인 이벤트 포스팅"
+    },
+    {
+      "day": 11,
+      "contents_type": "streaming",
+      "plan": "라이브 방송으로 겨울 여행지 추천"
+    },
+    {
+      "day": 12,
+      "contents_type": "twit",
+      "plan": "겨울 여행 관련 이벤트 트윗"
+    },
+    {
+      "day": 13,
+      "contents_type": "youtube",
+      "plan": "겨울 여행 팁 영상 업로드"
+    },
+    {
+      "day": 14,
+      "contents_type": "blog",
+      "plan": "겨울 여행지 리뷰 글"
+    },
+    {
+      "day": 15,
+      "contents_type": "facebook",
+      "plan": "겨울 여행 이벤트 참여 안내"
+    },
+    {
+      "day": 16,
+      "contents_type": "tiktok",
+      "plan": "겨울 여행 댄스 영상 업로드"
+    },
+    {
+      "day": 17,
+      "contents_type": "news_letter",
+      "plan": "이번 주의 특별 혜택 및 할인 정보 발송"
+    },
+    {
+      "day": 18,
+      "contents_type": "web_event",
+      "plan": "겨울 여행 웹 이벤트 참여 안내"
+    },
+    {
+      "day": 19,
+      "contents_type": "instagram",
+      "plan": "겨울 여행 패키지 예약 안내"
+    },
+    {
+      "day": 20,
+      "contents_type": "streaming",
+      "plan": "라이브 방송으로 겨울 여행 팁 공유"
+    },
+    {
+      "day": 21,
+      "contents_type": "twit",
+      "plan": "겨울 여행 관련 이벤트 트윗"
+    },
+    {
+      "day": 22,
+      "contents_type": "youtube",
+      "plan": "겨울 여행 VLOG 업로드"
+    },
+    {
+      "day": 23,
+      "contents_type": "blog",
+      "plan": "겨울 여행 팁 및 꿀팁 공유 글"
+    },
+    {
+      "day": 24,
+      "contents_type": "facebook",
+      "plan": "겨울 여행 이벤트 참여 안내"
+    },
+    {
+      "day": 25,
+      "contents_type": "tiktok",
+      "plan": "겨울 여행 다이내믹 영상 업로드"
+    },
+    {
+      "day": 26,
+      "contents_type": "news_letter",
+      "plan": "이번 주의 특별 혜택 및 할인 정보 발송"
+    },
+    {
+      "day": 27,
+      "contents_type": "web_event",
+      "plan": "겨울 여행 웹 이벤트 참여 안내"
+    },
+    {
+      "day": 28,
+      "contents_type": "instagram",
+      "plan": "겨울 여행 패키지 예약 안내"
+    },
+    {
+      "day": 29,
+      "contents_type": "streaming",
+      "plan": "라이브 방송으로 겨울 여행 팁 공유"
+    },
+    {
+      "day": 30,
+      "contents_type": "twit",
+      "plan": "겨울 여행 관련 이벤트 트윗"
+    },
+    {
+      "day": 31,
+      "contents_type": "youtube",
+      "plan": "겨울 여행 VLOG 업로드"
+    }
+  ]
+}
