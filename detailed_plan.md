@@ -1,0 +1,3 @@
+# 2025년 1월 경주 관광 인플루언서 마케팅 세부 실행 계획
+
+For January 2025, Gyeongju's tourism strategy should focus on winter themes and New Year celebrations, emphasizing serene landscapes and traditional events like the sunrise at Munmu Daewang's tomb. Incorporating the latest trends, Gyeongju could enhance its dining experiences to align with the strong restaurant industry growth, promote stylish winter fashion in its campaigns, and integrate AI and AR technologies for immersive tourist experiences. Social media should be leveraged to engage visitors with interactive content and live broadcasts, aligning with global social media trends. This comprehensive approach will help attract tourists and enrich their experience in Gyeongju during the winter season.
